@@ -1,0 +1,6 @@
+<form action="mailto:dynamicjobs.ch@gmail.com" method="post" enctype="text/plain">
+  <h2>Account Deletion Request</h2>
+  <label for="email">Your account email:</label><br>
+  <input type="email" id="email" name="email" required><br>
+  <input type="submit" value="Request Account Deletion">
+</form>
