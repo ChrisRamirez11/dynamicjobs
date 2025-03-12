@@ -34767,7 +34767,7 @@ if(r.$2(a,j)>0){s[b]=j
 b=o}}s[b]=a}}
 A.ED.prototype={
 N(a){var s=$.apr()
-return new A.uS(B.kz,A.aG(["/home",new A.ZK(),"/privacy",new A.ZL()],t.N,t.Ab),"Flutter Demo",s,null)}}
+return new A.uS(B.kz,A.aG(["/home",new A.ZK(),"/privacy",new A.ZL()],t.N,t.Ab),"Dynamic Jobs",s,null)}}
 A.ZK.prototype={
 $1(a){return B.kz},
 $S:278}
