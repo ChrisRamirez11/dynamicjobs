@@ -36,14 +36,14 @@ const RESOURCES = {"canvaskit/skwasm.js": "ac0f73826b925320a1e9b0d3fd7da61c",
 "assets/AssetManifest.json": "1b672a6f8e77ef840d1cc22357ad2f2a",
 "version.json": "8b562b386d9cd33b7e48fb1b38457ca8",
 "flutter.js": "4b2350e14c6650ba82871f60906437ea",
-"main.dart.js": "71e993c68fd1394ba704dd3762615d15",
+"main.dart.js": "49d7cb73b301a238357b625f2b2b2ae6",
 "icons/Icon-maskable-512.png": "74dae9c5a35e0d318f066d02ae232958",
 "icons/Icon-192.png": "fec76eb1b205b76119871295900a9977",
 "icons/Icon-512.png": "74dae9c5a35e0d318f066d02ae232958",
 "icons/Icon-maskable-192.png": "fec76eb1b205b76119871295900a9977",
 "manifest.json": "8a078c60d72a198b801b69fb600f7f25",
 "favicon.png": "8e2fb3c2a32c2d4464bbd482084a4bdb",
-"flutter_bootstrap.js": "71cfcfe8bd5f518b3a45167c2a2919e0"};
+"flutter_bootstrap.js": "2f67b08804bfcd0882465f50bfa962d0"};
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = ["main.dart.js",
