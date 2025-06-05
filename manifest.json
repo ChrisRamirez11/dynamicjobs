@@ -1,6 +1,6 @@
 {
-    "name": "djobs_site",
-    "short_name": "djobs_site",
+    "name": "wellnest",
+    "short_name": "wellnest",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#151515",
