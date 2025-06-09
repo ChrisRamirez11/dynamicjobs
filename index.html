@@ -101,6 +101,12 @@
   </script>
 </head>
 <body>
+  <div id="static-links" style="position: absolute; top: 10px; left: 10px; z-index: 9999;">
+  <a href="https://wellnesthabits.vercel.app/privacy-policy" target="_blank" style="color: white; font-size: 14px;">
+    Privacy Policy
+  </a>
+</div>
+
   <picture id="splash">
       <source srcset="splash/img/light-1x.png 1x, splash/img/light-2x.png 2x, splash/img/light-3x.png 3x, splash/img/light-4x.png 4x" media="(prefers-color-scheme: light)">
       <source srcset="splash/img/dark-1x.png 1x, splash/img/dark-2x.png 2x, splash/img/dark-3x.png 3x, splash/img/dark-4x.png 4x" media="(prefers-color-scheme: dark)">
@@ -110,7 +116,7 @@
   
   <script src="flutter_bootstrap.js" async=""></script>
 
-  <footer style="width: 100%; text-align: center; padding: 20px 0; color: #aaa; font-size: 14px; bottom: 0; background-color: #151515; z-index: 9999;">
+  <footer style="width: 100%; text-align: center; padding: 20px 0; color: #aaa; font-size: 14px; position: absolute; bottom: 0; background-color: #151515; z-index: 9999;">
     <a href="https://wellnesthabits.vercel.app/privacy.html" target="_blank" style="color: #aaa; text-decoration: underline;">
       Privacy Policies
     </a>
